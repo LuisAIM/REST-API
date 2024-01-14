@@ -1,0 +1,17 @@
+[
+{
+   "id": "1",
+   "Objeto": "Dev 1", 
+    "Caracteristica": "Developer 3"
+},
+{
+    "id": "2",
+    "Objeto": "Dev 2",
+     "Caracteristica": "Developer 3"
+ },
+ {
+    "id": "3",
+    "Objeto": "Dev 3",
+     "Caracteristica": "Developer 3"
+ }
+]
